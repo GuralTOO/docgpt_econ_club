@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/docgpt_econ_club/static/css/main.22e787d2.css",
-    "main.js": "/docgpt_econ_club/static/js/main.46d607ad.js",
+    "main.js": "/docgpt_econ_club/static/js/main.ded5c3a4.js",
     "static/js/787.6f13cf46.chunk.js": "/docgpt_econ_club/static/js/787.6f13cf46.chunk.js",
     "index.html": "/docgpt_econ_club/index.html",
     "main.22e787d2.css.map": "/docgpt_econ_club/static/css/main.22e787d2.css.map",
-    "main.46d607ad.js.map": "/docgpt_econ_club/static/js/main.46d607ad.js.map",
+    "main.ded5c3a4.js.map": "/docgpt_econ_club/static/js/main.ded5c3a4.js.map",
     "787.6f13cf46.chunk.js.map": "/docgpt_econ_club/static/js/787.6f13cf46.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.22e787d2.css",
-    "static/js/main.46d607ad.js"
+    "static/js/main.ded5c3a4.js"
   ]
 }
