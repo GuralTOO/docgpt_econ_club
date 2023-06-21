@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/docgpt_econ_club/static/css/main.22e787d2.css",
-    "main.js": "/docgpt_econ_club/static/js/main.ded5c3a4.js",
-    "static/js/787.6f13cf46.chunk.js": "/docgpt_econ_club/static/js/787.6f13cf46.chunk.js",
-    "index.html": "/docgpt_econ_club/index.html",
-    "main.22e787d2.css.map": "/docgpt_econ_club/static/css/main.22e787d2.css.map",
-    "main.ded5c3a4.js.map": "/docgpt_econ_club/static/js/main.ded5c3a4.js.map",
-    "787.6f13cf46.chunk.js.map": "/docgpt_econ_club/static/js/787.6f13cf46.chunk.js.map"
+    "main.css": "/static/css/main.22e787d2.css",
+    "main.js": "/static/js/main.7884b69a.js",
+    "static/js/787.6f13cf46.chunk.js": "/static/js/787.6f13cf46.chunk.js",
+    "index.html": "/index.html",
+    "main.22e787d2.css.map": "/static/css/main.22e787d2.css.map",
+    "main.7884b69a.js.map": "/static/js/main.7884b69a.js.map",
+    "787.6f13cf46.chunk.js.map": "/static/js/787.6f13cf46.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.22e787d2.css",
-    "static/js/main.ded5c3a4.js"
+    "static/js/main.7884b69a.js"
   ]
 }
